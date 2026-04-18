@@ -25,7 +25,7 @@ This repository provides the document for distribution and reference purposes on
 
 ## Document
 
-- STEPINQUEST® White Paper (PDF)
+- [STEPINQUEST® White Paper (PDF)](stepinquest-white-paper.pdf) — repository copy
 
 ---
 
